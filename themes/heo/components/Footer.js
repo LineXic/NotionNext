@@ -25,7 +25,6 @@ const Footer = ({ title }) => {
 
       {/* 底部页面信息 */}
 
-<img src="https://icp.gov.moe/images/ico64.png" width="20" height="20"><a href="https://icp.gov.moe/?keyword=20240181" target="_blank">萌ICP备20240181号</a><br>
 <span id="sitetime"></span>
 <script language=javascript>
     function siteTime(){
