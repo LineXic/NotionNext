@@ -25,8 +25,7 @@ const Footer = ({ title }) => {
 
       {/* 底部页面信息 */}
 
-<span id="sitetime"></span>
-<script language=javascript>
+
     function siteTime(){
         window.setTimeout("siteTime()", 1000);
         var seconds = 1000;
@@ -60,8 +59,6 @@ const Footer = ({ title }) => {
         document.getElementById("sitetime").innerHTML="匍匐爬行"+diffYears+" 年 "+diffDays+" 天 "+diffHours+" 小时 "+diffMinutes+" 分钟 "+diffSeconds+" 秒";
     }
     siteTime();
-</script>
-<br>
 
       <div
         id='footer-bottom'
