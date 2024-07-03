@@ -64,23 +64,6 @@ const Footer = ({ title }) => {
 </script>
 <br>
 
-
-                    Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
-                    <br>
-                    Power by <a href="https://linexic.top/">LineXic</a> | 站点 <a href="https://linexic.top/feed.xml">RSS</a><br>
-                    <a href="https://blog.csdn.net/m0_73230319?">
-  <img width="25" src="https://ts1.cn.mm.bing.net/th/id/R-C.2a932441dd0f785a3d2813c6198998dd?rik=yW78wW2nkdrw8Q&riu=http%3a%2f%2fpic.2265.com%2fupload%2f2017-7%2f201772598294888.png&ehk=ZyTimiwbIKnzPImq7nY8plTTZKjQtBktmyUef%2b4WI4U%3d&risl=&pid=ImgRaw&r=0"alt="CSDN"  />
-</a>
-||
- <a href="http://afdian.net/a/LineXic">
-  <img width="25" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.P7Tlj6hqpuSbLQ1AqQ8mkQHaHa?dpr=3&pid=ImgDetMain"alt="爱发电"  />
-</a>
-||
-<a href="https://space.bilibili.com/1015205011">
-  <img width="25" src="https://ts1.cn.mm.bing.net/th/id/R-C.5f7657549f4bd16d08b56ccad794f01a?rik=%2bXBzOkKWIBMU8A&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2020%2f07-20%2f89190%2fwater_89190_698_698_.png&ehk=b6FaBHz%2bTBstG7fZg%2fGSVXCcCSqOw3pUcMIZr6QUdZg%3d&risl=&pid=ImgRaw&r=0"alt="bilibili"  />
-</a>
-
-
       <div
         id='footer-bottom'
         className='w-full h-20 flex flex-col p-3 lg:flex-row justify-between px-6 items-center bg-[#f1f3f7] dark:bg-[#21232A] border-t dark:border-t-[#3D3D3F]'>
