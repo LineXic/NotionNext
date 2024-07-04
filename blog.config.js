@@ -27,7 +27,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'LineXic', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个爱折腾的人', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://linexic.top/', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'LineXic博客,书屋,前端分享,笔记本,学习进步', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'LineXic博客,书屋,前端分享,笔记本,学习进步,LineXic,linexic,blog,web,博客,前端,学习进步,书屋', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'linexic@yeah.net', // 邮箱地址 例如mail@tangly1024.com
